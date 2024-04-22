@@ -14,7 +14,7 @@ WORKOUTS = [
         'title' : 'Train to Failure',
         'location' : 'online',
         'duration' : '45min',
-        'cost' : '£22 - max 2 sessions'
+        'cost' : '£22 - first 2 sessions, £35 after'
     },
     {
         'id' : 3,
